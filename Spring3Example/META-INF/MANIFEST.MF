@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Spring3Example
+Bundle-SymbolicName: Spring3Example
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.mkyong.config,
+ com.mkyong.core,
+ com.mkyong.hello,
+ com.mkyong.hello.impl
